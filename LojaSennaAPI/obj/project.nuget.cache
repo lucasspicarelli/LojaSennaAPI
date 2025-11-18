@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yx7QlpI05SM=",
+  "dgSpecHash": "MYc+NpzGQjo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.monteiro\\source\\repos\\LojaSennaAPI\\LojaSennaAPI\\LojaSennaAPI.csproj",
+  "projectFilePath": "D:\\Lucas Picarelli\\Arquivos Antigo PC\\LojaSennaAPI\\LojaSennaAPI\\LojaSennaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.monteiro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
     "C:\\Users\\lucas.monteiro\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

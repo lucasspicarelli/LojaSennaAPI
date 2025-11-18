@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas.monteiro\\source\\repos\\LojaSennaAPI\\LojaSenna.Application\\LojaSenna.Application.csproj": {}
+    "D:\\Lucas Picarelli\\Arquivos Antigo PC\\LojaSennaAPI\\LojaSenna.Application\\LojaSenna.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas.monteiro\\source\\repos\\LojaSennaAPI\\LojaSenna.Application\\LojaSenna.Application.csproj": {
+    "D:\\Lucas Picarelli\\Arquivos Antigo PC\\LojaSennaAPI\\LojaSenna.Application\\LojaSenna.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas.monteiro\\source\\repos\\LojaSennaAPI\\LojaSenna.Application\\LojaSenna.Application.csproj",
+        "projectUniqueName": "D:\\Lucas Picarelli\\Arquivos Antigo PC\\LojaSennaAPI\\LojaSenna.Application\\LojaSenna.Application.csproj",
         "projectName": "LojaSenna.Application",
-        "projectPath": "C:\\Users\\lucas.monteiro\\source\\repos\\LojaSennaAPI\\LojaSenna.Application\\LojaSenna.Application.csproj",
+        "projectPath": "D:\\Lucas Picarelli\\Arquivos Antigo PC\\LojaSennaAPI\\LojaSenna.Application\\LojaSenna.Application.csproj",
         "packagesPath": "C:\\Users\\lucas.monteiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas.monteiro\\source\\repos\\LojaSennaAPI\\LojaSenna.Application\\obj\\",
+        "outputPath": "D:\\Lucas Picarelli\\Arquivos Antigo PC\\LojaSennaAPI\\LojaSenna.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
