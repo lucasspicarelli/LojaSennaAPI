@@ -31,3 +31,37 @@ C:\Users\lucas.monteiro\source\repos\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\
 C:\Users\lucas.monteiro\source\repos\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSennaAPI.pdb
 C:\Users\lucas.monteiro\source\repos\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSennaAPI.genruntimeconfig.cache
 C:\Users\lucas.monteiro\source\repos\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\ref\LojaSennaAPI.dll
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\bin\Debug\net9.0\appsettings.json
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\bin\Debug\net9.0\LojaSennaAPI.staticwebassets.endpoints.json
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\bin\Debug\net9.0\LojaSennaAPI.exe
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\bin\Debug\net9.0\LojaSennaAPI.deps.json
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\bin\Debug\net9.0\LojaSennaAPI.runtimeconfig.json
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\bin\Debug\net9.0\LojaSennaAPI.dll
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\bin\Debug\net9.0\LojaSennaAPI.pdb
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSennaAPI.csproj.AssemblyReference.cache
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSennaAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSennaAPI.AssemblyInfoInputs.cache
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSennaAPI.AssemblyInfo.cs
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSennaAPI.csproj.CoreCompileInputs.cache
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSennaAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSennaAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSennaAPI.sourcelink.json
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\scopedcss\bundle\LojaSennaAPI.styles.css
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSenn.A5FD2D7F.Up2Date
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSennaAPI.dll
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\refint\LojaSennaAPI.dll
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSennaAPI.pdb
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\LojaSennaAPI.genruntimeconfig.cache
+D:\Lucas Picarelli\Arquivos Antigo PC\LojaSennaAPI\LojaSennaAPI\obj\Debug\net9.0\ref\LojaSennaAPI.dll

@@ -1,57 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Lucas Picarelli\\Arquivos Antigo PC\\LojaSennaAPI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1102A0B8-1679-4DC2-A103-37B295D343E8}|LojaSenna.Core\\LojaSenna.Core.csproj|d:\\lucas picarelli\\arquivos antigo pc\\lojasennaapi\\lojasenna.core\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1102A0B8-1679-4DC2-A103-37B295D343E8}|LojaSenna.Core\\LojaSenna.Core.csproj|solutionrelative:lojasenna.core\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1102A0B8-1679-4DC2-A103-37B295D343E8}|LojaSenna.Core\\LojaSenna.Core.csproj|d:\\lucas picarelli\\arquivos antigo pc\\lojasennaapi\\lojasenna.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1102A0B8-1679-4DC2-A103-37B295D343E8}|LojaSenna.Core\\LojaSenna.Core.csproj|solutionrelative:lojasenna.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\Lucas Picarelli\\Arquivos Antigo PC\\LojaSennaAPI\\LojaSenna.Core\\Entities\\Account.cs",
-              "RelativeDocumentMoniker": "LojaSenna.Core\\Entities\\Account.cs",
-              "ToolTip": "D:\\Lucas Picarelli\\Arquivos Antigo PC\\LojaSennaAPI\\LojaSenna.Core\\Entities\\Account.cs",
-              "RelativeToolTip": "LojaSenna.Core\\Entities\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T06:17:04.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Lucas Picarelli\\Arquivos Antigo PC\\LojaSennaAPI\\LojaSenna.Core\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "LojaSenna.Core\\Entities\\User.cs",
-              "ToolTip": "D:\\Lucas Picarelli\\Arquivos Antigo PC\\LojaSennaAPI\\LojaSenna.Core\\Entities\\User.cs",
-              "RelativeToolTip": "LojaSenna.Core\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T06:11:15.685Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
